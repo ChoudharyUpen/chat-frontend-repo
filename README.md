@@ -1,12 +1,25 @@
+This is the Frontend Repository of my WebRTC Project.
+
 backend repository link ---- https://github.com/ChoudharyUpen/chat-backend-repo
 
+Frontend deployed on --- https://vercel.com/choudharyupens-projects/chat-frontend-repo
+
+Technologies Used 
+React – For building the user interface
+
+Vite – Fast build tool and dev server
+
+Tailwind CSS – For styling the UI
+
+React Router DOM – For page navigation
+
+Axios – For making API requests
+
+Socket.io Client – For real-time communication
+
+Zustand – For state management
+
+DaisyUI – UI components built on Tailwind CSS
 
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Thank you! ❤️
